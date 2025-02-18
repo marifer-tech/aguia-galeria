@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #f4f4f4;
+    background-color: #4d4c4c;
     font-family: 'Montserrat', sans-serif;
     color: #333;
     line-height: 1.6;
@@ -29,6 +29,10 @@ header h1 {
 header p {
     font-size: 1.1rem;
     margin-bottom: 20px;
+}
+
+header img {
+    width: 100px;
 }
 
 main {
@@ -95,4 +99,14 @@ img:hover {
         max-width: 300px;
         border-radius: 5px;
     }
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+footer p {
+    text-align: center;
 }
