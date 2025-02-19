@@ -4,6 +4,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Array de imagens locais
 const images = [
+    "imagens/aguias/aguia3.png",
+    "imagens/aguias/aguia2.png",
     "imagens/aguias/aguia1.jpg",
 ];
 
